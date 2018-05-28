@@ -1,5 +1,9 @@
 # fMRI-data-analysis
+
+Data can be found from http://www.fil.ion.ucl.ac.uk/spm/download/data/MoAEpilot/
+
 Work flow:
+
       1. Spatial Preprocessing:
       
              1)realignment:  
